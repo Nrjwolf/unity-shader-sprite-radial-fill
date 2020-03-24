@@ -1,4 +1,4 @@
-## Smooth radial gradient shader
+## Radial fill shader
 
 This shader helps to create radial fill with sprite
 
